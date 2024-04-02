@@ -1,3 +1,3 @@
-# practical_exam
+# Loan Calculator
 
-A new Flutter project.
+Practical exam for Mobile Dev Subject.
